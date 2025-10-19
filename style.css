@@ -1,8 +1,10 @@
 body{
      text-align: center;
-     background-image: url(./enfermagem.jpg);
-     background-size: 100%;
+     background-image: url(./Amorzão.jpg);
+     background-size: 55%;
      font-size: x-large;
+     background-repeat: no-repeat;
+     
 }
 h1{
     text-align: center;
@@ -40,4 +42,10 @@ h3{
     background-image: url(./enfermagem1.png);
     background-size: 100%;
     background-size: cover;
+}
+#contact2{
+    text-align: center;
+}
+#home2{
+    text-align: center;
 }
