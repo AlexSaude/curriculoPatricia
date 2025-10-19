@@ -1,0 +1,43 @@
+body{
+     text-align: center;
+     background-image: url(./enfermagem.jpg);
+     background-size: 100%;
+     font-size: x-large;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+.foto{
+    text-align: center;
+    background-image: url(./Amorzão.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vw;
+}
+.contact{
+    font-size: xx-large;
+    font-style: oblique;
+    color: blue;
+    position: fixed;
+    top: 5;
+    left: 5;
+}
+.icon1{
+    font-size: x-large;
+}
+.icon2{
+    font-size: x-large;
+}
+h3{
+    color: red;
+}
+.id{
+    text-align: center;
+    background-image: url(./enfermagem1.png);
+    background-size: 100%;
+    background-size: cover;
+}
